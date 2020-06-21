@@ -39,7 +39,7 @@ Finally, using ipywidgets a dropdown menu was made to allow the user to toggle t
 Installation
 ----------------------
 
-### Download the data
+### Download
 
 * Clone this repo to your computer.
 * In your terminal, run export MAPBOX_API_KEY=<mapbox-key-here\> which pydeck will read to use Mapbox basemaps. You can also refer to the pydeck docs to see how to pass the key as a variable.
